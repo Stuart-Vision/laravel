@@ -68,5 +68,5 @@
         "process-timeout": 0
     },
     "minimum-stability": "stable",
-    "prefer-stable": tru
+    "prefer-stable": true
 }
